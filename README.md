@@ -10,7 +10,7 @@ As a software engineer, I enjoy using my curiosity and attention to detail for m
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working at [IQVIA](https://www.iqvia.com/)
+- 👨🏻‍💻 I’m currently working at [Mollie](https://www.mollie.com/)
 - <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="18px"> I’m a blockchain enthusiast
 - 🥋 I do <a href="https://c.tenor.com/cDy3_8tRXBQAAAAC/taekwondo-kick.gif" title="or at least i try">Taekowndo</a>
 
